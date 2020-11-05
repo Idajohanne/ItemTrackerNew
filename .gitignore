@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
+# Created by https://www.toptal.com/developers/gitignore/api/windows,java,vscode
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,java,vscode
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/java,vscode,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,vscode,windows
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
 
 ### Java ###
 # Compiled class file
@@ -61,4 +66,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
+# End of https://www.toptal.com/developers/gitignore/api/windows,java,vscode
+=======
 # End of https://www.toptal.com/developers/gitignore/api/java,vscode,windows
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
