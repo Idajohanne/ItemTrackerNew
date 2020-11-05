@@ -1,0 +1,17 @@
+arguments=
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+<<<<<<< HEAD
+java.home=C\:/Program Files/AdoptOpenJDK/jdk-14.0.2.12-hotspot
+=======
+java.home=C\:/Program Files/Java/jdk-14.0.2
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true

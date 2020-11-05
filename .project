@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ItemTracker New</name>
+<<<<<<< HEAD
+	<comment>Project ItemTrackerNew created by Buildship.</comment>
+=======
+	<comment>Project ItemTracker New created by Buildship.</comment>
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+<<<<<<< HEAD
+=======
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+<<<<<<< HEAD
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+	<filteredResources>
+		<filter>
+<<<<<<< HEAD
+			<id>1604574899761</id>
+=======
+			<id>1604574884717</id>
+>>>>>>> 286d0a918c0d135f1f076855dc702e6cb9ebf83e
+			<name></name>
+			<type>30</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>node_modules|.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
