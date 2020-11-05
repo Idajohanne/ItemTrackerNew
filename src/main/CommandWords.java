@@ -13,5 +13,8 @@ public class CommandWords {
     System.out.print("Commands: ");
     commandWords.forEach(command -> System.out.print(command + " "));
   }
+  public boolean isCommandWord(String command) {
+    return commandWords.contains(command);
+  }
 
 }
