@@ -7,6 +7,9 @@ public class CommandWords {
   
   public CommandWords(){
     commandWords = new ArrayList<>();
+    commandWords.add("add");
+    commandWords.add("remove");
+    commandWords.add("list");
   }
 
   public void showAll(){
