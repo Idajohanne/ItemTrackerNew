@@ -23,12 +23,5 @@ public class ItemTracker {
             }
 
         }
-    }
-
-    public static void main(String[] args) {
-        ItemTracker it = new ItemTracker();
-        
-    }
-
-    
+    }    
 }
